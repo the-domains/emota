@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/139634086'
+inLanguage: null
+starred: true
+keywords: []
+description: 'This is "WESTliving: BE" by emota on Vimeo, the home for high quality videos and the people who love them.'
+datePublished: '2016-04-14T06:07:55.679Z'
+dateModified: '2016-04-14T06:07:02.038Z'
 author:
   - name: emota
     url: 'http://vimeo.com/emota'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "WESTliving: BE" by emota on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/139634086'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/139634086'
 title: 'WESTliving: BE'
-datePublished: '2016-04-14T05:48:28.891Z'
-dateModified: '2016-04-14T05:46:29.498Z'
 sourcePath: _posts/2016-04-14-westliving-be.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
