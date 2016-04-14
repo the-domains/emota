@@ -4,7 +4,7 @@
         <description><![CDATA[emota]]></description>
         <link>https://thegrid.ai/emota/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 06:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 06:11:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/emota/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WESTliving: BE]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/139634086</link>
             <guid isPermaLink="false">57060fa2-a5a4-42e0-b8ac-75be465d93a7</guid>
             <pubDate>Thu, 14 Apr 2016 06:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>SONY</p>]]></description>
+            <link>https://thegrid.ai/emota/sony/index.html</link>
+            <guid isPermaLink="false">95db8f4e-f4fc-4ba5-a007-b4722e24f14c</guid>
+            <pubDate>Thu, 14 Apr 2016 06:11:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Illumina Vision]]></title>
