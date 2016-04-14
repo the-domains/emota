@@ -1,7 +1,7 @@
 name: emota
 favicon: null
-layout_spectrum: 0.6698980194050819
-typography_spectrum: 0.31521804560907185
+layout_spectrum: 0
+typography_spectrum: 0.23932
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.5299406689591706
-  lightness: 0.8642475088126957
-  saturation: 0.4390309229493141
+  lightness: 0.9375
+  saturation: 0.5
   rhythmicContrast: 0.8743727516848594
 purpose: []
