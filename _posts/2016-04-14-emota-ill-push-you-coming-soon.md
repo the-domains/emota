@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/113968082'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "This is \"Emota: I'll Push You - Coming Soon\" by emota on Vimeo, the home for high quality videos and the people who love them."
-datePublished: '2016-04-14T06:18:16.760Z'
-dateModified: '2016-04-14T06:15:03.991Z'
+datePublished: '2016-04-14T06:20:05.397Z'
+dateModified: '2016-04-14T06:18:23.684Z'
 author:
   - name: emota
     url: 'http://vimeo.com/emota'
