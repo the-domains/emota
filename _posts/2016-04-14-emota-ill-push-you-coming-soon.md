@@ -1,14 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://vimeo.com/113968082'
 inLanguage: null
-starred: true
 keywords: []
-description: "This is \"Emota: I'll Push You - Coming Soon\" by emota on Vimeo, the home for high quality videos and the people who love them."
-datePublished: '2016-04-14T07:01:54.614Z'
-dateModified: '2016-04-14T07:01:43.968Z'
+description: >-
+  This is "Emota: I'll Push You - Coming Soon" by emota on Vimeo, the home for
+  high quality videos and the people who love them.
+datePublished: '2016-08-31T12:10:49.712Z'
+dateModified: '2016-08-31T12:10:49.435Z'
 author:
   - name: emota
     url: 'http://vimeo.com/emota'
@@ -41,15 +41,17 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: "Emota: I'll Push You - Coming Soon"
+title: 'Emota: I''ll Push You - Coming Soon'
 sourcePath: _posts/2016-04-14-emota-ill-push-you-coming-soon.md
-published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+via: {}
+starred: true
+url: emota-ill-push-you-coming-soon/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
