@@ -1,9 +1,30 @@
-favicon: null
-name: emota
+typography_spectrum: 0.49087
+color:
+  saturation: 0.5
+  brandStrength: 0
+  rhythmicContrast: 0
+  brandColors:
+    - '#fffefe'
+  lightness: 0.9375
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5860214
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: emota
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: I'll PUSH YOU
+    id: 59bcfbdb-5f4f-4c92-a258-2eeaec72f957
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -17,20 +38,3 @@ collections:
       format: rss
       number: 10
 purpose: []
-color:
-  saturation: 0.5
-  brandStrength: 0
-  rhythmicContrast: 0
-  brandColors:
-    - '#fffefe'
-  lightness: 0.9375
-typography_spectrum: 0.49087
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5860214
-analytics:
-  twitter: null
-  google: null
-  facebook: null
